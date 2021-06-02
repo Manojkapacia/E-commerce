@@ -1,0 +1,8 @@
+.column {
+    float: left;
+    width: 10%;
+}
+.column1 {
+    float: left;
+    width: 90%;
+}

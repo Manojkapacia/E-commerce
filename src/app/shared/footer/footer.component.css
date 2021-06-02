@@ -1,0 +1,13 @@
+.content{
+    color: gold;
+}
+.navbar fixed-bottom{
+    padding-bottom: 70px;
+}
+.setData{
+    position: relative;
+    margin-top: 630px;
+}
+#footerRef{
+    color: white !important;
+} 
